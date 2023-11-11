@@ -1,0 +1,17 @@
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\controller\AuthController.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\controller\MosoController.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\dao\MosoRepository.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\dao\MesaRepository.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\servicelpml\ICRUDlmpl.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\controller\ClienteController.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\Moviles2Application.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\entity\Moso.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\entity\Cliente.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\service\ICRUD.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\servicelpml\ClienteServicelmpl.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\servicelpml\MosoServicelmpl.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\dao\ClienteRepository.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\controller\MesaController.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\entity\Mesa.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\entity\Sesion.java
+A:\CIBERTEC CICLO 06\Desarrollo de Aplicaciones Moviles 2\proyecto\back-end\moviles2\src\main\java\com\moviles\servicelpml\MesaServicelmpl.java
